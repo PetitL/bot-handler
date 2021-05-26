@@ -1,4 +1,4 @@
-# Bot Handler [![Stars](https://github.com/PetitL/bot-handler)](https://github.com/PetitL/bot-handler)
+# Bot Handler [Stars](https://github.com/PetitL/bot-handler)](https://github.com/PetitL/bot-handler)
 
 event handler by [PetitL](https://github.com/PetitL) - Bot Discord (v12 stable)  
 For better referencing, please add a star on the repository  
