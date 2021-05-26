@@ -6,8 +6,8 @@ For better referencing, please add a star on the repository
 
 # Configuration
 
-The configuration file named **config.js** have to content the token of your discord bot, the prefix of your bot, the id of the channel wich will receive the commands logs, and your id or the ids of all other owners. 
-```js
+The configuration file named **config.js** have to content the token of your discord bot, the prefix of your bot.
+ ```js
 const config = {
     "TOKEN" : "TOKEN",
     "PREFIX" : "PREFIX",
@@ -30,7 +30,7 @@ For any errors found, please contact me [here](https://discord.gg/kwQb2CeRam) fo
 
 
 # Table of contents
-* [Introduction](#Structure-Discord-Bot)
+* [Introduction](#Bot-Handler)
   * [Configuration](#Configuration)
   * [Commands](#Commands)
   * [Errors](#Errors)
